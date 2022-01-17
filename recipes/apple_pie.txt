@@ -11,3 +11,6 @@ Granny Smit apples
 
 New changes from detached-head state:
 Sugar Free
+
+Changes from local repo, to be pushed to remote:
+Salt Salt...
