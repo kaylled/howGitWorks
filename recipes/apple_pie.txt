@@ -5,3 +5,6 @@ pre-made pastry
 ...
 Cheesecake
 Lisa also likes cinnamon
+
+Changes added from detached-head state:
+Granny Smit apples
